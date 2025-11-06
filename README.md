@@ -6,10 +6,10 @@
 
 ### 👋 Olá, seja bem-vindo ao meu GitHub!
 
-Sou um **Desenvolvedor Fullstack em formação** e estudante de **Engenharia de Software (Unicesumar - 5º semestre)**.  
+Sou um **Desenvolvedor Fullstack em formação** e estudante de **Engenharia de Software (Unicesumar - 6º semestre)**.  
 Apaixonado por tecnologia, segurança digital e soluções inteligentes para problemas reais.
 
-📌 Atualmente trabalhando na **SG Sistemas**  
+📌 Atualmente trabalhando na **Vector Soluções digitais**  
 
 ---
 
@@ -45,4 +45,4 @@ Apaixonado por tecnologia, segurança digital e soluções inteligentes para pro
 ---
 
 ### ✉️ Contato
-📧 **nicolasplg29@gmail.com**
+📧 **trabalhonicolasplg@gmail.com**
