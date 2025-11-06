@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="assets/banner_readme.png" alt="Banner Nicolas" width="900"/>
-</p>
 
 # 👋 Olá, eu sou o Nicolás Pereira Lucas Gonçalves
 
@@ -44,6 +40,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicolasplg29&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF"/>
+</p>
+
 
 <!-- Contribution streak / activity graph (animated-like) -->
 <p align="center">
