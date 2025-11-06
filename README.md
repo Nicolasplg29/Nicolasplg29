@@ -1,16 +1,14 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Nicolas%20Pereira%20Lucas%20Gonçalves&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=40&desc=Fullstack%20Developer%20|%20Software%20Engineer&descAlign=50&descAlignY=60" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Nicolas%20Pereira%20Lucas%20Gonçalves&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=40&desc=Fullstack%20Developer%20|%20Software%20Engineer&descAlign=50&descAlignY=60" />
 
 ---
 
 ### 👋 Olá, seja bem-vindo ao meu GitHub!
 
 Sou um **Desenvolvedor Fullstack em formação** e estudante de **Engenharia de Software (Unicesumar - 5º semestre)**.  
-Apaixonado por tecnologia, segurança digital e soluções inteligentes para problemas reais.  
+Apaixonado por tecnologia, segurança digital e soluções inteligentes para problemas reais.
 
-📌 Atualmente trabalhando na **SG Sistemas**
+📌 Atualmente trabalhando na **SG Sistemas**  
 
 ---
 
@@ -25,22 +23,16 @@ Apaixonado por tecnologia, segurança digital e soluções inteligentes para pro
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nicolasplg29&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasplg29&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasplg29&layout=compact&theme=radical" />
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nicolasplg29&show_icons=true&theme=radical" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasplg29&theme=radical" />
+<br>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasplg29&layout=compact&theme=radical" />
 
 ---
 
 ### 🧠 Dev Vibes
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif">
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif">
 
 ---
 
@@ -53,4 +45,4 @@ Apaixonado por tecnologia, segurança digital e soluções inteligentes para pro
 ---
 
 ### ✉️ Contato
-📧 nicolasplg29@gmail.com
+📧 **nicolasplg29@gmail.com**
