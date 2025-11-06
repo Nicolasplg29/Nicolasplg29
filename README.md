@@ -1,6 +1,7 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Nicolas%20Pereira%20Lucas%20Gonçalves&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=40&desc=Fullstack%20Developer%20|%20Software%20Engineer&descAlign=50&descAlignY=60" />
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Nicolas%20Pereira%20Lucas%20Gonçalves&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=40&desc=Fullstack%20Developer%20|%20Software%20Engineer&descAlign=50&descAlignY=60" />
+</p>
 ---
 
 ### 👋 Olá, seja bem-vindo ao meu GitHub!
