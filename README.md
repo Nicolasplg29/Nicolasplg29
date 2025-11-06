@@ -27,6 +27,7 @@ Apaixonado por tecnologia, segurança digital e soluções inteligentes para pro
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nicolasplg29&show_icons=true&theme=radical" />
+  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasplg29&theme=radical" />
 </p>
 
