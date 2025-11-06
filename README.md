@@ -27,7 +27,6 @@ Apaixonado por tecnologia, segurança digital e soluções inteligentes para pro
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nicolasplg29&show_icons=true&theme=radical" />
-  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasplg29&theme=radical" />
 </p>
 
@@ -37,7 +36,7 @@ Apaixonado por tecnologia, segurança digital e soluções inteligentes para pro
 
 ---
 
-### 🧠 GIF motivacional / Dev Vibes
+### 🧠 Dev Vibes
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif">
@@ -54,4 +53,4 @@ Apaixonado por tecnologia, segurança digital e soluções inteligentes para pro
 ---
 
 ### ✉️ Contato
-📧 nicolasplg29@gmail.com  
+📧 nicolasplg29@gmail.com
